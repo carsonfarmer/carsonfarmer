@@ -1,7 +1,6 @@
-## Carson Farmer 👋
-### cjqf
-__(he/him)__
+## cjqf
+### Carson Farmer (he/him)
 
-I do research and development with @textileio and @tablelandnetwork. I'm also a former university professor turned distributed web and open source advocate. I enjoy working on advanced algorithms and peer to peer protocols. I'm interested in conflict free replicated data types, linked data, composability, network resilience, maps, and more. You can email me at carson.farmer@gmail.com or reach out to @carsonfarmer pretty much everywhere else.
+These days I do research and development with `@textileio` and `@tablelandnetwork`. I used to be a professor at hunter.cuny.edu and colorado.edu. I enjoy working on advanced algorithms and peer to peer protocols. I'm interested in conflict free replicated data types, linked data, composability, network resilience, maps, the distributed web, open source software development, and other stuff. You can email me at `carson.farmer@gmail.com` or reach out to `@carsonfarmer` pretty much everywhere else.
 
 Currently open to advisory roles for non-profits and smaller startups. Active research in data structures for distributed systems, homomorphic hashing schemes, and data-centric distributed systems.
