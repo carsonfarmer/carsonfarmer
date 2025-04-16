@@ -2,7 +2,7 @@
 
 # @carsonfarmer
 
-head of research @recalllabs_ (fka @textileio) // building @recallnet // prev prof/academia // working on distributed systems, data structures, blockchain, and ai/machine-learning
+head of research [@recalllabs_](https://linktr.ee/recalllabs) (fka @textileio) // building [@recallnet](https://recall.network/) // prev prof/academia // working on distributed systems, data structures, blockchain, and ai/machine-learning
 
 - [carsonfarmer.com](https://carsonfarmer.com)
 - [recall labs](https://linktr.ee/recalllabs)
