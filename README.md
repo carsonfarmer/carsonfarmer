@@ -2,7 +2,7 @@
 
 # @carsonfarmer
 
-cto & cofounder [@recalllabs_](https://linktr.ee/recalllabs) (fka @textileio) // building [@recallnet](https://recall.network/) // prev professor/academia // 🇨🇦/acc // 
+cto & cofounder [@recalllabs_](https://linktr.ee/recalllabs) (fka @textileio) // building [@recallnet](https://recall.network/) // prev professor/academia // 🇨🇦/acc //  
 working on distributed systems, data structures, blockchain, and ai/machine-learning
 
 - [carsonfarmer.com](https://carsonfarmer.com)
