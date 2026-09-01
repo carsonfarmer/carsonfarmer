@@ -2,10 +2,9 @@
 
 # @carsonfarmer
 
-cto & cofounder [@recalllabs_](https://linktr.ee/recalllabs) (fka @textileio) // building [@recallnet](https://recall.network/) // prev professor/academia // 🇨🇦/acc  
-working on distributed systems, data structures, blockchain, and ai/machine-learning
+Engineering and R&D Executive | Cofounder & CTO at Recall Labs | AI Infrastructure & Distributed Systems
 
 - [carsonfarmer.com](https://carsonfarmer.com)
-- [recall labs](https://linktr.ee/recalllabs)
-- [recall network](https://recall.network/)
-- [recent paper: geometric search trees](https://g-trees.github.io/g_trees/)
+- [Recall Labs](https://linktr.ee/recalllabs)
+- [Recall Network](https://recall.network/)
+- [Recent Paper: Geometric Search Trees](https://g-trees.github.io/g_trees/)
